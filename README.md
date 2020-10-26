@@ -4,7 +4,7 @@
 
 <div align="center">
 
-My name is Matthew. I'm a software developer, YouTuber and entrepreneur. <br /> I teach web development with Django, and am currently working on a new project: <a href="https://kollood.io" target="_blank">Kollood</a>
+My name is Matthew. I'm a software developer, YouTuber and entrepreneur. <br /> I teach web development with Django, and am currently working on a new project: <a href="https://kollood.co" target="_blank">Kollood</a>
 
 </div>
 
