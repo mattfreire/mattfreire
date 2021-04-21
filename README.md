@@ -4,16 +4,15 @@
 
 <div align="center">
 
-My name is Matthew. I'm a software developer, YouTuber and entrepreneur. <br /> I teach web development with Django, and am currently working on a new project: <a href="https://kollood.co" target="_blank">Kollood</a>
+My name is Matthew. I'm a software developer, YouTuber and entrepreneur. <br /> I teach web development with Django, and am working on <a href="https://justdjango.com" target="_blank">JustDjango</a> while learning about other technologies like blockchain and game development.
 
 </div>
 
 <div align="center">
 
-I work mainly with Django and React, but you can see more about my workflow <a href="https://justdjango.com" target="_blank">here</a>. <br>
 Feel free to get in touch with me via <a href="mailto:matt@justdjango.com"><b>email</b></a>
 
-<p>I mainly work on projects in the <a href="https://github.com/justdjango" target="_blank">JustDjango organization</a></p>
+<p>You can see more work I've done on Django in the <a href="https://github.com/justdjango" target="_blank">JustDjango organization</a></p>
 
 </div>
 
