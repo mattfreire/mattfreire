@@ -34,5 +34,7 @@ Tech stack I usually work with:
 </div>
 
 <div>
+  
+<br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=mattfreire&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Matthew's Github Stats">
